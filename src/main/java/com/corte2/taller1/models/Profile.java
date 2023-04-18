@@ -47,18 +47,10 @@ public class Profile {
     public Profile() {
     }
 
-    public Profile(long id, String name, String nickname, String email, String image, String phone, String outh0Id,
-            Employee employee, Date createdAt, Date updatedAt) {
-        this.id = id;
+    public Profile(String name, String nickname, String email) {
         this.name = name;
         this.nickname = nickname;
         this.email = email;
-        this.image = image;
-        this.phone = phone;
-        this.outh0Id = outh0Id;
-        this.employee = employee;
-        this.createdAt = createdAt;
-        this.updatedAt = updatedAt;
     }
 
     public long getId() {
