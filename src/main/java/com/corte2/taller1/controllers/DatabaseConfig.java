@@ -1,4 +1,4 @@
-package com.corte2.taller1;
+package com.corte2.taller1.controllers;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

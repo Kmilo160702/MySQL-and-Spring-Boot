@@ -15,9 +15,9 @@ import static org.junit.jupiter.api.Assertions.*;
  *
  * @author camil
  */
-public class CustomerTest {
+public class EnterpriseTest {
     
-    public CustomerTest() {
+    public EnterpriseTest() {
     }
     
     @BeforeAll

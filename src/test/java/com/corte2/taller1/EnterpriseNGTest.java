@@ -10,9 +10,9 @@ import static org.testng.Assert.*;
  *
  * @author camil
  */
-public class CustomerNGTest {
+public class EnterpriseNGTest {
     
-    public CustomerNGTest() {
+    public EnterpriseNGTest() {
     }
 
     @org.testng.annotations.BeforeClass
